@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36bbcd30-443e-4f83-b6c8-16bbf36c4865" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Classifier/Logistic Regression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classifier/Support Vector Machine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classifier/k_nearest_neighbors.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Regression/Decision Tree Regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/Regression/Decision Tree Regression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Regression/Multiple Linear Regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/Regression/Multiple Linear Regression.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632897251901</updated>
-      <workItem from="1632897253749" duration="3637000" />
+      <workItem from="1632897253749" duration="3887000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1632898545132</created>
@@ -109,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632900154233</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary=".">
+      <created>1632900935967</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1632900935967</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

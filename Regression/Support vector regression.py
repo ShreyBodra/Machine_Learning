@@ -6,6 +6,7 @@ from sklearn.metrics import r2_score
 
 # importing dataset
 dataset = pd.read_excel('Folds5x2_pp.xlsx')
+print(dataset.head())
 
 X = dataset.iloc[:, :-1].values  # feature variable
 y = dataset.iloc[:, -1].values   # dependent variable

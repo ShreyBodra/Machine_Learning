@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36bbcd30-443e-4f83-b6c8-16bbf36c4865" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Association Rule Learning/Apriori.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reinforcement Learning/Thompson Sampling.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632897251901</updated>
-      <workItem from="1632897253749" duration="5118000" />
+      <workItem from="1632897253749" duration="7264000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1632898545132</created>
@@ -142,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632902064619</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary=".">
+      <created>1632902424040</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1632902424040</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

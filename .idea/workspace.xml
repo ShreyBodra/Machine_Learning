@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36bbcd30-443e-4f83-b6c8-16bbf36c4865" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Classifier/Decision Tree Classifier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classifier/Random Forest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clustering/K-Means.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632897251901</updated>
-      <workItem from="1632897253749" duration="4163000" />
+      <workItem from="1632897253749" duration="4487000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1632898545132</created>
@@ -129,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632901278479</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary=".">
+      <created>1632901458764</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1632901458764</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

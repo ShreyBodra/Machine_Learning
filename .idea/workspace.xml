@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36bbcd30-443e-4f83-b6c8-16bbf36c4865" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Regression/Polynomial Regression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression/Support vector regression.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Regression/Multiple Linear Regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/Regression/Multiple Linear Regression.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632897251901</updated>
-      <workItem from="1632897253749" duration="2282000" />
+      <workItem from="1632897253749" duration="2554000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1632898545132</created>
@@ -79,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632898545132</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=".">
+      <created>1632899573406</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1632899573406</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

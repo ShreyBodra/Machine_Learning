@@ -50,17 +50,17 @@ cnn.add(tf.keras.layers.Conv2D(
 cnn.add(tf.keras.layers.MaxPool2D(pool_size=2, strides=2))
 
 # Flattening
-cnn.add(tf.keras.Flatten())
+cnn.add(tf.keras.layers.Flatten())
 
 # creating ann for classifying image
-cnn.add(tf.keras.layers.Dense(units=128, activaion='relu'))
+cnn.add(tf.keras.layers.Dense(units=128, activation='relu'))
 cnn.add(tf.keras.layers.Dense(units=1, activation='sigmoid'))
 
 # compiling model
 cnn.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
 
 # training model
-cnn.fit(training_set, test_set, epocs=25)
+cnn.fit(training_set, test_set, epochs=25)
 
 
 

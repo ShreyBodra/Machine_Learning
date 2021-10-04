@@ -2,153 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36bbcd30-443e-4f83-b6c8-16bbf36c4865" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.169.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.1723.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.1783.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.1788.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.1813.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.1821.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.184.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.1846.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.1861.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.1879.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.1881.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.1886.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.1894.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.191.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.1924.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.1944.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.1952.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.1977.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.1992.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2013.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2039.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2046.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2079.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2080.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2129.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2131.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2137.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.214.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2164.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2177.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2202.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2207.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2235.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2268.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2300.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2305.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2313.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2333.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2338.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2346.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2411.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2429.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2436.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2469.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2476.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2484.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2501.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2514.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2534.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2542.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2547.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2567.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2575.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2582.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2612.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2640.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2645.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2710.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.274.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2769.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2783.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.282.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2841.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.287.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2881.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2918.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2938.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.2978.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.3001.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.3034.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.3041.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.3074.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.3094.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.3099.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.3124.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.3132.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.3157.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.3172.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.3192.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.3197.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.3202.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.3230.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.3235.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.3255.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.3288.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.3295.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.3300.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.3333.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.3366.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.3393.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.3471.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.3508.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.352.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.3528.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.3542.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.3575.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.3606.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.3639.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.3660.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.3699.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.3711.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.3729.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.3769.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.380.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.3802.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.3827.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.3835.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.385.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.3868.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.3875.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.3900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.3905.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.3933.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.3938.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.3998.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.409.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.410.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.43.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.443.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.450.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.456.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.483.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.489.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.491.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.507.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.574.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.581.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.618.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.625.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.69.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.692.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.708.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.716.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.749.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.756.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.789.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.790.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.814.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.819.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.83.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.847.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.91.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.912.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.917.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.925.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/dataset/training_set/dogs/dog.985.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Deep Learning/Convolutional_Neural_Network.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deep Learning/Convolutional_Neural_Network.py" afterDir="false" />
     </list>
@@ -231,7 +84,7 @@
       <workItem from="1632897253749" duration="10227000" />
       <workItem from="1633240308074" duration="3893000" />
       <workItem from="1633244237897" duration="1288000" />
-      <workItem from="1633336046095" duration="1381000" />
+      <workItem from="1633336046095" duration="2227000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1632898545132</created>
@@ -338,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633244465478</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary=".">
+      <created>1633337874095</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1633337874095</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
